@@ -40,3 +40,5 @@ I am Anirudh Emmadi, people call me Ani, currently pursuing my bachelor's degree
 ![Raspberry Pi](https://img.shields.io/badge/-Raspberry%20Pi-C51A4A?style=flat-square&logo=Raspberry-Pi)
 
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=aemmadi&show_icons=true)
+
+![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=aemmadi.aemmadi)
